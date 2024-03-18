@@ -1,0 +1,18 @@
+#14 Homework for Lesson 14 from 29 Feb 2024 Web
+
+Homework - Lessons 14 and 15
+I. Homework from LMS:
+1. From Lesson 14:
+- Beet Seed: tasks 2 and 3 [see below]
+- Beet Sprout
+
+Beet Seed  — get the basic skills down.
+Test the website www.headhunterhairstyling.com , find 3 bugs, and record them in Google docs. Link the document in the LMS.
+Create a single HTML document with three different ways to connect styles in it:
+Inside a specific tag (inline)
+In the "HEAD" section
+In an external .css file
+Check the display of the created document in different browsers.
+Briefly describe the difference in the display of elements.
+Beed Seed Task 3
+One difference between Firefox and Edge is the border around paragraphs. In Firefox they sit closer to the window’s edge as compared to Edge. This is visible on the left side of the browser’s pages. Everything else between these browsers appears to be the same on my webpage. A similar difference appears to be between Chrome and Edge. There appears to be no differences between Firefox and Chrome, at least no visible differences, on my webpage. 
